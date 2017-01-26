@@ -26,8 +26,15 @@
   {
     "username": "francesco-romano",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_computed-torque-francesco-romano",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-01-26T15:31:31Z",
+        "score": 5
+      }
+    ],
+    "score": 5
   },
   {
     "username": "GiuliaP",
