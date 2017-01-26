@@ -30,7 +30,7 @@
 
 ### [**francesco-romano**](https://github.com/francesco-romano) grade
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 
