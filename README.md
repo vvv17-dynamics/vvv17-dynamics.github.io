@@ -30,6 +30,10 @@
 
 ### [**francesco-romano**](https://github.com/francesco-romano) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_computed-torque-simulink-francesco-romano](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-francesco-romano) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
