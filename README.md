@@ -33,6 +33,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [assignment_computed-torque-simulink-francesco-romano](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-francesco-romano) | :white_check_mark: | **5** |
+| [assignment_computed-torque-francesco-romano](https://github.com/vvv17-dynamics/assignment_computed-torque-francesco-romano) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
