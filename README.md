@@ -320,6 +320,7 @@
 | [tutorial_impedance-control-pi-q](https://github.com/vvv17-dynamics/tutorial_impedance-control-pi-q) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-pi-q](https://github.com/vvv17-dynamics/tutorial_impedance-control-simulink-pi-q) | :white_check_mark: | **1** |
 | [assignment_computed-torque-simulink-pi-q](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-pi-q) | :x: | **0** |
+| [assignment_computed-torque-pi-q](https://github.com/vvv17-dynamics/assignment_computed-torque-pi-q) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
