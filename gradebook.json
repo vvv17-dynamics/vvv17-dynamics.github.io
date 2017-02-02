@@ -466,12 +466,12 @@
       },
       {
         "name": "assignment_computed-torque-simulink-ipa-bfb",
-        "status": ":x:",
-        "last_commit_date": "2017-02-02 18:54:27 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-02 21:27:55 UTC",
         "score": 5
       }
     ],
-    "score": 2
+    "score": 7
   },
   {
     "username": "jibweb",
