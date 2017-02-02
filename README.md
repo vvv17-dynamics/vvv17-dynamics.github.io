@@ -359,6 +359,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-simulink-towardthesea](https://github.com/vvv17-dynamics/tutorial_impedance-control-simulink-towardthesea) | :white_check_mark: | **1** |
+| [assignment_computed-torque-towardthesea](https://github.com/vvv17-dynamics/assignment_computed-torque-towardthesea) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
