@@ -275,6 +275,7 @@
 | [tutorial_impedance-control-LuSeKa](https://github.com/vvv17-dynamics/tutorial_impedance-control-LuSeKa) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-LuSeKa](https://github.com/vvv17-dynamics/tutorial_impedance-control-simulink-LuSeKa) | :white_check_mark: | **1** |
 | [assignment_computed-torque-simulink-LuSeKa](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-LuSeKa) | :x: | **0** |
+| [assignment_computed-torque-LuSeKa](https://github.com/vvv17-dynamics/assignment_computed-torque-LuSeKa) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
