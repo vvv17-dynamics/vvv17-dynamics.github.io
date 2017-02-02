@@ -752,6 +752,12 @@
         "status": ":white_check_mark:",
         "last_commit_date": "2017-02-02 21:57:16 UTC",
         "score": 5
+      },
+      {
+        "name": "assignment_computed-torque-svestark",
+        "status": ":x:",
+        "last_commit_date": "2017-01-27 08:30:35 UTC",
+        "score": 5
       }
     ],
     "score": 7
