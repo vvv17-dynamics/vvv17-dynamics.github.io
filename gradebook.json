@@ -331,10 +331,15 @@
         "name": "tutorial_impedance-control-pi-q",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_impedance-control-simulink-pi-q",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 1
+    "score": 2
   },
   {
     "username": "svestark",
