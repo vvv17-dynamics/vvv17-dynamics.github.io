@@ -285,6 +285,7 @@
 | [tutorial_impedance-control-nolbriker](https://github.com/vvv17-dynamics/tutorial_impedance-control-nolbriker) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-nolbriker](https://github.com/vvv17-dynamics/tutorial_impedance-control-simulink-nolbriker) | :white_check_mark: | **1** |
 | [assignment_computed-torque-simulink-nolbriker](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-nolbriker) | :x: | **0** |
+| [assignment_computed-torque-nolbriker](https://github.com/vvv17-dynamics/assignment_computed-torque-nolbriker) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
