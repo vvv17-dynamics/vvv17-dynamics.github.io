@@ -175,10 +175,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-fabian-paus](https://github.com/vvv17-dynamics/tutorial_impedance-control-fabian-paus) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-fabian-paus](https://github.com/vvv17-dynamics/tutorial_impedance-control-simulink-fabian-paus) | :white_check_mark: | **1** |
-| [assignment_computed-torque-fabian-paus](https://github.com/vvv17-dynamics/assignment_computed-torque-fabian-paus) | :x: | **0** |
+| [assignment_computed-torque-fabian-paus](https://github.com/vvv17-dynamics/assignment_computed-torque-fabian-paus) | :white_check_mark: | **5** |
 | [assignment_computed-torque-simulink-fabian-paus](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-fabian-paus) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
