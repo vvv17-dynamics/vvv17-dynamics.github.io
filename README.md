@@ -247,6 +247,7 @@
 | [tutorial_impedance-control-kompky](https://github.com/vvv17-dynamics/tutorial_impedance-control-kompky) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-kompky](https://github.com/vvv17-dynamics/tutorial_impedance-control-simulink-kompky) | :white_check_mark: | **1** |
 | [assignment_computed-torque-kompky](https://github.com/vvv17-dynamics/assignment_computed-torque-kompky) | :x: | **0** |
+| [assignment_computed-torque-simulink-kompky](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-kompky) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
