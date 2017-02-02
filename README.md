@@ -19,6 +19,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-alexarossi](https://github.com/vvv17-dynamics/tutorial_impedance-control-alexarossi) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-alexarossi](https://github.com/vvv17-dynamics/tutorial_impedance-control-simulink-alexarossi) | :white_check_mark: | **1** |
+| [assignment_computed-torque-simulink-alexarossi](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-alexarossi) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
