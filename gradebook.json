@@ -293,7 +293,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_computed-torque-EgorLakomkin",
+        "status": ":x:",
+        "last_commit_date": "2017-01-27 08:30:35 UTC",
+        "score": 5
+      }
+    ],
     "score": 1
   },
   {
