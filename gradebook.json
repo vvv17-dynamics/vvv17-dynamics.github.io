@@ -574,8 +574,8 @@
     "assignments": [
       {
         "name": "assignment_computed-torque-LawrenceChen-i2r",
-        "status": ":x:",
-        "last_commit_date": "2017-01-27 08:30:35 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-02 22:22:38 UTC",
         "score": 5
       },
       {
@@ -585,7 +585,7 @@
         "score": 5
       }
     ],
-    "score": 2
+    "score": 7
   },
   {
     "username": "LuSeKa",
