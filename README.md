@@ -108,7 +108,11 @@
 
 ### [**Dabuss**](https://github.com/Dabuss) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [tutorial_impedance-control-Dabuss](https://github.com/vvv17-dynamics/tutorial_impedance-control-Dabuss) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
