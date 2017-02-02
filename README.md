@@ -305,6 +305,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_impedance-control-mazzamani](https://github.com/vvv17-dynamics/tutorial_impedance-control-mazzamani) | :white_check_mark: | **1** |
 | [assignment_computed-torque-simulink-mazzamani](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-mazzamani) | :x: | **0** |
+| [assignment_computed-torque-mazzamani](https://github.com/vvv17-dynamics/assignment_computed-torque-mazzamani) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
