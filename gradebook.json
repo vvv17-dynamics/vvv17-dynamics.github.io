@@ -592,12 +592,12 @@
       },
       {
         "name": "assignment_computed-torque-simulink-LawrenceChen-i2r",
-        "status": ":x:",
-        "last_commit_date": "2017-01-27 08:32:12 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-02 23:10:28 UTC",
         "score": 5
       }
     ],
-    "score": 7
+    "score": 12
   },
   {
     "username": "LuSeKa",
