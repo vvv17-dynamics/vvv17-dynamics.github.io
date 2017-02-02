@@ -729,6 +729,12 @@
         "status": ":x:",
         "last_commit_date": "2017-02-02 18:11:36 UTC",
         "score": 5
+      },
+      {
+        "name": "assignment_computed-torque-simulink-towardthesea",
+        "status": ":x:",
+        "last_commit_date": "2017-01-27 08:32:12 UTC",
+        "score": 5
       }
     ],
     "score": 1
