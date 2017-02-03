@@ -448,12 +448,12 @@
       },
       {
         "name": "assignment_computed-torque-Iaxama",
-        "status": ":x:",
-        "last_commit_date": "2017-02-02 23:41:17 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-03 08:45:40 UTC",
         "score": 5
       }
     ],
-    "score": 2
+    "score": 7
   },
   {
     "username": "ipa-bfb",
