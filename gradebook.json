@@ -417,8 +417,8 @@
     "assignments": [
       {
         "name": "assignment_computed-torque-gmmarconi",
-        "status": ":x:",
-        "last_commit_date": "2017-01-27 08:30:35 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-03 22:46:27 UTC",
         "score": 5
       },
       {
@@ -428,7 +428,7 @@
         "score": 5
       }
     ],
-    "score": 7
+    "score": 12
   },
   {
     "username": "Iaxama",
