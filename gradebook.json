@@ -136,8 +136,8 @@
     "assignments": [
       {
         "name": "assignment_computed-torque-anatanevska",
-        "status": ":x:",
-        "last_commit_date": "2017-02-02 23:30:11 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-03 11:05:52 UTC",
         "score": 5
       },
       {
@@ -147,7 +147,7 @@
         "score": 5
       }
     ],
-    "score": 7
+    "score": 12
   },
   {
     "username": "Arya07",
