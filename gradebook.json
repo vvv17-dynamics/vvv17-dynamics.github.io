@@ -303,12 +303,12 @@
     "assignments": [
       {
         "name": "assignment_computed-torque-Dabuss",
-        "status": ":x:",
-        "last_commit_date": "2017-02-03 00:31:32 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-03 21:54:00 UTC",
         "score": 5
       }
     ],
-    "score": 2
+    "score": 7
   },
   {
     "username": "damianomal",
