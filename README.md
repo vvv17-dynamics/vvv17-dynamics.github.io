@@ -7,9 +7,9 @@
 | [tutorial_impedance-control-AlexAntn](https://github.com/vvv17-dynamics/tutorial_impedance-control-AlexAntn) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-AlexAntn](https://github.com/vvv17-dynamics/tutorial_impedance-control-simulink-AlexAntn) | :white_check_mark: | **1** |
 | [assignment_computed-torque-AlexAntn](https://github.com/vvv17-dynamics/assignment_computed-torque-AlexAntn) | :white_check_mark: | **5** |
-| [assignment_computed-torque-simulink-AlexAntn](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-AlexAntn) | :x: | **0** |
+| [assignment_computed-torque-simulink-AlexAntn](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-AlexAntn) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-12-brightgreen.svg?style=flat-square)
 
 ---
 
