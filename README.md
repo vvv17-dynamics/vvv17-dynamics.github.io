@@ -105,9 +105,9 @@
 | [tutorial_impedance-control-bmagyar](https://github.com/vvv17-dynamics/tutorial_impedance-control-bmagyar) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-bmagyar](https://github.com/vvv17-dynamics/tutorial_impedance-control-simulink-bmagyar) | :white_check_mark: | **1** |
 | [assignment_computed-torque-bmagyar](https://github.com/vvv17-dynamics/assignment_computed-torque-bmagyar) | :white_check_mark: | **5** |
-| [assignment_computed-torque-simulink-bmagyar](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-bmagyar) | :x: | **0** |
+| [assignment_computed-torque-simulink-bmagyar](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-bmagyar) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-12-brightgreen.svg?style=flat-square)
 
 ---
 
