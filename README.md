@@ -337,9 +337,9 @@
 | [tutorial_impedance-control-NunoDuarte](https://github.com/vvv17-dynamics/tutorial_impedance-control-NunoDuarte) | :white_check_mark: | **1** |
 | [tutorial_impedance-control-simulink-NunoDuarte](https://github.com/vvv17-dynamics/tutorial_impedance-control-simulink-NunoDuarte) | :white_check_mark: | **1** |
 | [assignment_computed-torque-NunoDuarte](https://github.com/vvv17-dynamics/assignment_computed-torque-NunoDuarte) | :x: | **0** |
-| [assignment_computed-torque-simulink-NunoDuarte](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-NunoDuarte) | :x: | **0** |
+| [assignment_computed-torque-simulink-NunoDuarte](https://github.com/vvv17-dynamics/assignment_computed-torque-simulink-NunoDuarte) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
