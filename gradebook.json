@@ -477,8 +477,8 @@
     "assignments": [
       {
         "name": "assignment_computed-torque-ipa-bfb",
-        "status": ":x:",
-        "last_commit_date": "2017-01-27 08:30:35 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-06 09:11:35 UTC",
         "score": 5
       },
       {
@@ -488,7 +488,7 @@
         "score": 5
       }
     ],
-    "score": 7
+    "score": 12
   },
   {
     "username": "jibweb",
