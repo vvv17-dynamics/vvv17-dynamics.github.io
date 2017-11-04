@@ -1,5 +1,7 @@
 ## Gradebook of VVV17 Robot Dynamics
 
+As VVV17 is now over, the students repositories have been [archived](https://github.com/vvv17-dynamics/vvv17-dynamics.github.io/tree/master/archives).
+
 ### [**AlexAntn**](https://github.com/AlexAntn) grade
 
 | assignment | status | score |
